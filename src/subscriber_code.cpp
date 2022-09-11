@@ -1,3 +1,4 @@
+#include "publisher_package/topic_name.h"
 // %Tag(FULLTEXT)%
 #include "ros/ros.h"
 #include "std_msgs/String.h"
